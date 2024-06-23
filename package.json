@@ -1,0 +1,74 @@
+{
+  
+  "name": "namastereact",
+  
+  "version": "1.0.0",
+  
+  "description": "This is Namaste React course",
+  
+  "scripts": {
+  
+    
+  "start": "parcel project.html",
+  
+    
+  "build": "parcel build lecture1.html",
+  
+    
+  "test": "jest"
+  
+  },
+  
+  "repository": {
+  
+    
+  "type": "git",
+  
+    
+  "url": "git+https://github.com/RajYadav7/React.git"
+  
+  },
+  
+  "author": "Raj Yadav",
+  
+  "license": "ISC",
+  
+  "bugs": {
+  
+    
+  "url": "https://github.com/RajYadav7/React/issues"
+  
+  },
+  
+  "homepage": "https://github.com/RajYadav7/React#readme",
+  
+  "devDependencies": {
+  
+    
+  "parcel": "^2.12.0",
+  
+    
+  "process": "^0.11.10"
+  
+  },
+  
+  "dependencies": {
+  
+    
+  "react": "^18.3.1",
+  
+    
+  "react-dom": "^18.3.1",
+  
+    
+  "react-router-dom": "^6.23.1"
+  
+  },
+  
+  "browserlist": [
+  
+    
+  "last 2 Chrome versions"
+  
+  ]
+}
